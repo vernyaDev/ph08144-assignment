@@ -23,9 +23,31 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/app/css/style.css",
+              "src/app/css/default.css",
+              "src/app/css/etalage.css",
+              "src/app/css/form.css",
+              "src/app/css/fwslider.css",
+              "src/app/css/magnific-popup.css",
+              "src/app/css/nivo-slider.css",
+              "src/app/css/zoome-min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/app/js/login.js",
+              "src/app/js/megamenu.js",
+              "src/app/js/zoome-e.js",
+              "src/app/js/slides.min.jquery.js",
+              "src/app/js/jquery1.min.js",
+              "src/app/js/jquery.nivo.slider.js",
+              "src/app/js/jquery.magnific-popup.js",
+              "src/app/js/jquery.jscrollpane.min.js",
+              "src/app/js/jquery.flexisel.js",
+              "src/app/js/jquery.etalage.min.js",
+              "src/app/js/jquery.easydropdown.js",
+              "src/app/js/jquery-ui.min.js",
+              "src/app/js/fwslider.js",
+              "src/app/js/css3-mediaqueries.js"
+            ]
           },
           "configurations": {
             "production": {
